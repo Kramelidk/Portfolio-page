@@ -40,7 +40,7 @@ body:after {
     bottom: 0;
     left: 0;
     right: 0;
-    background-image: url("overlay-pattern.png"), url("overlay.svg");
+    background-image: url("overlay-pattern.png");
     background-size: auto, cover;
     background-repeat: repeat no-repeat;
     z-index: -1;
