@@ -24,7 +24,7 @@ body:before {
     left: 0;
     height: 300px;
     width: 7000px;
-    background: url("../images/bg.jpg");
+    background: url("bg.jpg");
     background-size: contain;
     background-repeat: repeat-x;
     animation: bg 60s linear infinite;
@@ -40,7 +40,7 @@ body:after {
     bottom: 0;
     left: 0;
     right: 0;
-    background-image: url("../images/overlay-pattern.png"), url("../images/overlay.svg");
+    background-image: url("overlay-pattern.png"), url("overlay.svg");
     background-size: auto, cover;
     background-repeat: repeat no-repeat;
     z-index: -1;
